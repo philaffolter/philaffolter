@@ -1,0 +1,9 @@
+site_name: Philipp Affolter | mkdocs theme
+site_url: https://philaffolter.github.io
+site_author: Philipp Affolter
+site_description: A mkdocs test
+theme:
+  name: material
+
+nav:
+  - About: index.md
