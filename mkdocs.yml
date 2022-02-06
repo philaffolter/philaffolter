@@ -7,3 +7,4 @@ theme:
 
 nav:
   - About: index.md
+  - Links: links.md
