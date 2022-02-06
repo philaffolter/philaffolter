@@ -1,0 +1,4 @@
+[submodule "philaffolter.github.io"]
+	path = philaffolter.github.io
+	url = https://github.com/philaffolter/philaffolter.github.io.git
+	branch = main
